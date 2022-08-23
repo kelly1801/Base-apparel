@@ -147,6 +147,14 @@ color: #fff;
     margin-bottom: 3rem;
     
     }
+    .error-message{
+        color: var(--primary);
+       margin: 1rem;
+        
+        top: 50%;
+       
+    
+    }
   
 }
 
